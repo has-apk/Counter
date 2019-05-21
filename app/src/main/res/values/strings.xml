@@ -1,0 +1,7 @@
+<resources >
+    <string name="app_name">Counter</string>
+    <string name="saved_high_count_key">me.effer.counter.HIGH_COUNT_KEY</string>
+    <string name="button_plus">+</string>
+    <string name="txt_count_prefix">Count : %1$d</string>
+    <string name="txt_highCount_prefix">High Count : %1$d</string>
+</resources>
